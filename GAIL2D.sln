@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAIL2D", "GAIL2D\GAIL2D.csproj", "{B2D23BD2-78C9-4FE6-85F8-3B451178A152}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{A416AEE0-ED71-4F76-AF53-367DA36CB7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello2D", "examples\Hello2D\Hello2D.csproj", "{C3E171D7-0022-4BDA-9592-7033E7C7269B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D23BD2-78C9-4FE6-85F8-3B451178A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D23BD2-78C9-4FE6-85F8-3B451178A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D23BD2-78C9-4FE6-85F8-3B451178A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D23BD2-78C9-4FE6-85F8-3B451178A152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E171D7-0022-4BDA-9592-7033E7C7269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E171D7-0022-4BDA-9592-7033E7C7269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E171D7-0022-4BDA-9592-7033E7C7269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E171D7-0022-4BDA-9592-7033E7C7269B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3E171D7-0022-4BDA-9592-7033E7C7269B} = {A416AEE0-ED71-4F76-AF53-367DA36CB7F8}
+	EndGlobalSection
+EndGlobal
