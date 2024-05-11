@@ -1,3 +1,5 @@
+<h3 align="center">--- GAIL2D has been archived in favor of 2D and UI layers in <a href="https://github.com/dedouwe26/GAIL">GAIL</a> ---</h3>
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/dedouwe26/GAIL/main/Logo.svg" alt="logo" width="500", href="https://github.com/dedouwe26/GAIL"/> <br/>
 <code>Graphics Audio Input Library 2D</code> <br/></h1>
 This library is built using Vulkan, OpenAL and GLFW for the graphics, audio and input / window management.<br/>
